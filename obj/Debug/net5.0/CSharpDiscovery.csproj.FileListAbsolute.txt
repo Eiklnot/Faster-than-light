@@ -1,0 +1,16 @@
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\CSharpDiscovery.csproj.AssemblyReference.cache
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\CSharpDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\CSharpDiscovery.AssemblyInfoInputs.cache
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\CSharpDiscovery.AssemblyInfo.cs
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\CSharpDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\bensi\my-project\testing\bin\Debug\net5.0\CSharpDiscovery.exe
+C:\Users\bensi\my-project\testing\bin\Debug\net5.0\CSharpDiscovery.deps.json
+C:\Users\bensi\my-project\testing\bin\Debug\net5.0\CSharpDiscovery.runtimeconfig.json
+C:\Users\bensi\my-project\testing\bin\Debug\net5.0\CSharpDiscovery.runtimeconfig.dev.json
+C:\Users\bensi\my-project\testing\bin\Debug\net5.0\CSharpDiscovery.dll
+C:\Users\bensi\my-project\testing\bin\Debug\net5.0\CSharpDiscovery.pdb
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\CSharpDiscovery.dll
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\refint\CSharpDiscovery.dll
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\CSharpDiscovery.pdb
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\CSharpDiscovery.genruntimeconfig.cache
+C:\Users\bensi\my-project\testing\obj\Debug\net5.0\ref\CSharpDiscovery.dll
